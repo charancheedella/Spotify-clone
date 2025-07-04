@@ -51,7 +51,7 @@ A responsive and visually appealing **Spotify Clone**, built purely using **HTML
 
 ### 🙌 Author
 Crafted with ❤️ by **Venkata Sai Charan Cheedella**  
-[![LinkedIn](https://www.linkedin.com/in/charan-cheedella)  
+(https://www.linkedin.com/in/charan-cheedella)  
 📩 charancheedella012@gmail.com
 
 ---
